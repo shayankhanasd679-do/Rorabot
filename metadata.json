@@ -1,0 +1,6 @@
+{
+  "name": "RoraBot",
+  "description": "Smart WhatsApp Auto-Reply Assistant in Roman Pashto for Shayan from Peshawar with intent brain, Never Reply VIP list, and chat training",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
